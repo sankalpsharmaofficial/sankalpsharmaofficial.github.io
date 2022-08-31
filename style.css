@@ -33,7 +33,7 @@ body {
 }
 
 .card[data-state="#about"] {
-  height: 430px;
+  height: 480px;
 }
 .card[data-state="#about"] .card-main {
   padding-top: 0;
@@ -57,7 +57,7 @@ body {
 .card.is-active .card-avatar {
   transform: none;
   left: 20px;
-  width: 150px;
+  width: 50px;
   height: 50px;
   bottom: 10px;
 }
