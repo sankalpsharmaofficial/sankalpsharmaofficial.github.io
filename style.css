@@ -71,7 +71,7 @@ body {
   font-size: 19px;
 }
 .card.is-active .card-jobtitle {
-  bottom: 16px;
+  bottom: 12px;
   letter-spacing: 1px;
   font-size: 10px;
 }
@@ -162,7 +162,7 @@ body {
 }
 
 .card-desc {
-  line-height: 1.6;
+  line-height: 1.2;
   color: #636b6f;
   font-size: 14px;
   margin: 0;
@@ -174,7 +174,7 @@ body {
   display: flex;
   align-items: center;
   padding: 0 20px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .card-social svg {
   fill: #a5b5ce;
@@ -366,10 +366,10 @@ body {
   background: linear-gradient(to right, rgba(83, 200, 239, 0.8) 0%, rgba(81, 106, 204, 0.8) 96%);
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
   color: #fff;
-  padding: 8px 10px;
+  padding: 8px 5px;
   width: 100%;
   border-radius: 5px;
-  margin-top: 25px;
+  margin-top: 15px;
   cursor: pointer;
   font-size: 14px;
   font-weight: 500;
